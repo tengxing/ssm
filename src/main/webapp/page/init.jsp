@@ -45,12 +45,11 @@
     	<div>
 
     	<div id="popDiv" class="mydiv" style="display:none;">
-
+        <a href="112.74.13.211/ssm/ssm.tar">代码流程图下载</a>
 
         </div>
 
         <div class="mytable">
-
         <a style="font-size: 10px" href="${pageContext.request.contextPath}/book/">添加</a>
         <p style="font-size: 20px;text-align: center;">Books Table </p>
         <div style="padding-left:240px">
