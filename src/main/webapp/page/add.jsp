@@ -33,7 +33,7 @@
                     书名：<input type="text" name="bookname"/>
                     作者：<input type="text" name="author"/>
                     出版社：<input type="text" name="publish"/>
-                    价格：<input type="text" name="prize"/>
+                    价格：<input type="text" name="price"/>
                     <input type="button" value="保存" onclick="save()"/>
                 </form>
 
